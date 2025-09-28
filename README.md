@@ -12,11 +12,11 @@
 
 <table align="center">
   <tr>
-    <td>
-      /*<a href="https://git.io/streak-stats">
+    /*<td>
+      <a href="https://git.io/streak-stats">
         <img src="https://streak-stats.demolab.com?user=DevPrasath6r&theme=radical&border_radius=10&mode=weekly" alt="GitHub Streak"/>
-      </a>*/
-    </td>
+      </a>
+    </td>*/
     <td>
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akilesh-programmer&layout=compact&langs_count=8&theme=radical"/>
     </td>
