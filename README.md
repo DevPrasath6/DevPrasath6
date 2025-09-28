@@ -14,7 +14,7 @@
   <tr>
     <td>
       <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com?user=Akilesh-programmer&theme=radical&border_radius=10&mode=weekly" alt="GitHub Streak"/>
+        <img src="https://streak-stats.demolab.com?user=DevPrasath6r&theme=radical&border_radius=10&mode=weekly" alt="GitHub Streak"/>
       </a>
     </td>
     <td>
@@ -24,11 +24,11 @@
 </table>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Akilesh-programmer&theme=radical&row=1&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=DevPrasath6&theme=radical&row=1&column=7" alt="GitHub Trophies"/>
 </div>
 
 <p align="center">
-  <img src="https://github-contributions-api.deno.dev/Akilesh-programmer.svg" />
+  <img src="https://github-contributions-api.deno.dev/DevPrasath6.svg" />
 </p>
 
 ---
