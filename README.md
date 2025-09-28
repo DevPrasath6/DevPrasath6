@@ -9,11 +9,16 @@
 ---
 
 ### 📊 GitHub Stats
-<center>
+<div align="center">
+
 ![](https://github-readme-stats.vercel.app/api?username=DevPrasath6&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
 ![](https://nirzak-streak-stats.vercel.app/?user=DevPrasath6&theme=dracula&hide_border=false)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DevPrasath6&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-</center>
+
+</div>
+
 <p align="center">
   <img src="https://github-contributions-api.deno.dev/DevPrasath6.svg" />
 </p>
