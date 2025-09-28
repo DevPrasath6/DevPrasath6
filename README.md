@@ -10,13 +10,9 @@
 
 ### 📊 GitHub Stats
 
-<table align="center">
-  <tr>
-    <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akilesh-programmer&layout=compact&langs_count=8&theme=radical"/>
-    </td>
-  </tr>
-</table>
+![](https://github-readme-stats.vercel.app/api?username=DevPrasath6&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=DevPrasath6&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DevPrasath6&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=DevPrasath6&theme=radical&row=1&column=7" alt="GitHub Trophies"/>
