@@ -13,9 +13,9 @@
 <table align="center">
   <tr>
     <td>
-      <a href="https://git.io/streak-stats">
+      /*<a href="https://git.io/streak-stats">
         <img src="https://streak-stats.demolab.com?user=DevPrasath6r&theme=radical&border_radius=10&mode=weekly" alt="GitHub Streak"/>
-      </a>
+      </a>*/
     </td>
     <td>
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akilesh-programmer&layout=compact&langs_count=8&theme=radical"/>
@@ -42,8 +42,8 @@
 ### 🤝 Connect with Me
 
 <p align="center">
-  <a href="mailto:akileshakileshs1234@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://www.linkedin.com/in/akilesh-saravanan-4b0325307/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:devprasatha9@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/devprasatha9/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 ---
