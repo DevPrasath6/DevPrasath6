@@ -1,6 +1,9 @@
 <h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=700&color=66FFFF&center=true&vCenter=true&width=500&lines=Hi+Coders+👋;I'm+Dev" alt="Typing SVG" />
 </h1>
 
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=700&color=66FFFF&center=true&vCenter=true&width=500&lines=Hi+Coders+👋;I'm+Dev" alt="Typing SVG" />
+</p>
 ---
 
 ### 📊 GitHub Stats  
