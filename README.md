@@ -22,7 +22,6 @@
   <img src="https://github-contributions-api.deno.dev/DevPrasath6.svg" />
 </p>
 
----
 
 ### 🛠️ Skills & Tech Stack
 
