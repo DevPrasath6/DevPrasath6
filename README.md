@@ -1,6 +1,6 @@
 <!-- README.md for Akilesh-programmer -->
 
-<h1 align="center">Hey there 👋, I'm Akilesh</h1>
+<h1 align="center">Hey there 👋, I'm Dev</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=66FFFF&center=true&vCenter=true&width=500&lines=Crafting+Code+That+Speaks;Simplifying+The+Complex;Keyboard+is+my+Brush%2C+Code+is+my+Art;Elegance+in+Every+Function+Call" alt="Typing SVG" />
