@@ -1,8 +1,8 @@
 <h1 align="center">Hi Coders 👋, I'm Dev</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=66FFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Turning+Ideas+Into+Code;Debugging+Life+One+Bug+at+a+Time;Logic+is+My+Superpower;One+Commit+Closer+to+Mastery;Building+the+Future,+One+Line+at+a+Time;Dream+in+Code,+Live+in+Logic" alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=66FFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;" alt="Typing SVG" />
+<!-- Turning+Ideas+Into+Code;Debugging+Life+One+Bug+at+a+Time;Logic+is+My+Superpower;One+Commit+Closer+to+Mastery;Building+the+Future,+One+Line+at+a+Time;Dream+in+Code,+Live+in+Logic -->
 </p>
 
 ---
