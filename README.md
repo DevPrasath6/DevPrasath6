@@ -1,4 +1,4 @@
-<h1 align="center">Hi Coders 👋, I'm Dev</h1>
+<h1 align="center">Hi Coders 👋, I'm Dev</h1></br>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=66FFFF&center=true&vCenter=true&width=600&lines=Turning+Ideas+Into+Code;Debugging+Life+One+Bug+at+a+Time;Logic+is+My+Superpower;One+Commit+Closer+to+Mastery;Building+the+Future,+One+Line+at+a+Time;Dream+in+Code,+Live+in+Logic" alt="Typing SVG" />
@@ -9,7 +9,7 @@
 
 ### 📊 GitHub Stats  
 
-<div align="center">
+</br><div align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DevPrasath6&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" /> -->
   <img src="https://streak-stats.demolab.com?user=DevPrasath6&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
 </div><br/><br/>
@@ -30,7 +30,7 @@
 
 ### 🛠️ Skills & Tech Stack  
 
-<div align="center">
+</br><div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="60" alt="javascript logo"  />
