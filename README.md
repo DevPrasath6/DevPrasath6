@@ -1,4 +1,4 @@
-<h1 align="center">Hi Coders 👋, I'm Dev</h1></br>
+<h1 align="center">Hi Coders 👋, I'm Dev</h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=66FFFF&center=true&vCenter=true&width=600&lines=Turning+Ideas+Into+Code;Debugging+Life+One+Bug+at+a+Time;Logic+is+My+Superpower;One+Commit+Closer+to+Mastery;Building+the+Future,+One+Line+at+a+Time;Dream+in+Code,+Live+in+Logic" alt="Typing SVG" />
@@ -48,7 +48,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="60" alt="amazonwebservices logo"  />
-</div>
+</div></div></br>
 
 ---
 
