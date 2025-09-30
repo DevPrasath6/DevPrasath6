@@ -1,15 +1,16 @@
 <svg width="600" height="100" viewBox="0 0 600 100" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#7F00FF">
-        <animate attributeName="stop-color" values="#7F00FF;#E100FF;#7F00FF" dur="5s" repeatCount="indefinite" />
+        <animate attributeName="stop-color" values="#7F00FF;#E100FF;#7F00FF" dur="5s" repeatCount="indefinite"/>
       </stop>
       <stop offset="100%" stop-color="#E100FF">
-        <animate attributeName="stop-color" values="#E100FF;#7F00FF;#E100FF" dur="5s" repeatCount="indefinite" />
+        <animate attributeName="stop-color" values="#E100FF;#7F00FF;#E100FF" dur="5s" repeatCount="indefinite"/>
       </stop>
     </linearGradient>
   </defs>
-  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-family="Fira Code, monospace" font-size="60" fill="url(#gradient)">
+
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-family="Fira Code, monospace" font-size="60" fill="url(#grad1)">
     Dev
   </text>
 </svg>
