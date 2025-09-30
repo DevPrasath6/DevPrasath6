@@ -1,7 +1,7 @@
 <p  align="center">Hi Coders 👋, I'm Dev</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=D500F9&center=true&width=435&lines=Full-Stack+Developer;" alt="Typing Effect" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=E040FB&center=true&width=435&lines=Full-Stack+Developer;" alt="Typing Effect" />
 <!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=66FFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;" alt="Typing SVG" /> -->
 <!-- Turning+Ideas+Into+Code;Debugging+Life+One+Bug+at+a+Time;Logic+is+My+Superpower;One+Commit+Closer+to+Mastery;Building+the+Future,+One+Line+at+a+Time;Dream+in+Code,+Live+in+Logic -->
 </p>
