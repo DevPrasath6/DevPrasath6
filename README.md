@@ -10,7 +10,7 @@
 
 ---
 
-### 📊 GitHub Stats  
+### 🧮 Developer Metrics
 
 </br><div align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DevPrasath6&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" /> -->
@@ -31,7 +31,7 @@
 
 ---
 
-### 🛠️ Skills & Tech Stack  
+### 🛠️ Toolbox  
 
 </br><div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
@@ -55,7 +55,7 @@
 
 ---
 
-### 🤝 Connect with Me  
+### 💬 Reach Out
 
 <p align="center">
   <a href="mailto:devprasatha9@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
