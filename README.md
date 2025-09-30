@@ -1,4 +1,4 @@
-<p align="center">Hi Coders 👋, I'm Dev</p>
+<p style="font-size: 100px;" align="center">Hi Coders 👋, I'm Dev</p>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=66FFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;" alt="Typing SVG" />
