@@ -1,5 +1,6 @@
-<p  align="center">Hi Coders 👋, I'm Dev</p>
-
+<div align="center">
+  <img src="animated-name.svg" alt="Animated Name" width="600" />
+</div>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=E040FB&center=true&width=435&lines=Full-Stack+Developer;" alt="Typing Effect" />
 <!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=66FFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;" alt="Typing SVG" /> -->
