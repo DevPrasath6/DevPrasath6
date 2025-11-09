@@ -18,18 +18,6 @@
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DevPrasath6&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" /> -->
   <!--<img src="https://streak-stats.demolab.com?user=DevPrasath6&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />-->
 ![](https://nirzak-streak-stats.vercel.app/?user=DevPrasath6&theme=dark&hide_border=false)<br/>
-# 💫 About Me:
-<br><br>
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DevPrasath6&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=DevPrasath6&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DevPrasath6&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=DevPrasath6&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 </div><br/><br/>
 <!-- <div align="center">
