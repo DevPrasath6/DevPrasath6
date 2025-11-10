@@ -20,9 +20,9 @@
 ![DevPrasath6's Streak](https://github-readme-streak-stats.herokuapp.com/?user=DevPrasath6&theme=dracula&hide_border=true)
 
 </div><br/><br/>
- <div align="center">
+ <!-- <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=DevPrasath6&theme=radical&row=1&column=7" alt="GitHub Trophies"/>
-</div><br/><br/> 
+</div><br/><br/>  -->
 
 <div align="center">
   <picture>
